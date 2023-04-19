@@ -1,0 +1,68 @@
+.root {
+    -fx-base: #FFFFFF;
+    -fx-background: #F2F2F2;
+    -fx-control-inner-background: #E6E6E6;
+    -fx-text-base-color: #121212;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #FF444C;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 20px;
+    -fx-padding: 0.5em 1em;
+    -fx-font-size: 14px;
+}
+
+.button:hover {
+    -fx-background-color: #c4001a;
+}
+
+.text-field {
+    -fx-background-color: #E6E6E6;
+    -fx-text-fill: #121212;
+    -fx-font-size: 14px;
+    -fx-background-radius: 10px;
+    -fx-padding: 0.5em;
+}
+
+.text-area {
+    -fx-background-color: #E6E6E6;
+    -fx-text-fill: #121212;
+    -fx-font-size: 14px;
+    -fx-background-radius: 10px;
+    -fx-padding: 0.5em;
+}
+
+.label {
+    -fx-text-fill: #121212;
+    -fx-font-size: 14px;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab > .tab-container > .tab-label {
+    -fx-background-color: #960018;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 20px 20px 0 0;
+    -fx-padding: 0.5em 1em;
+    -fx-font-size: 14px;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:selected > .tab-container > .tab-label {
+    -fx-background-color: #c4001a;
+    -fx-background-radius: 20px 20px 0 0;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:hover > .tab-container > .tab-label {
+    -fx-background-color: #c4001a;
+}
+
+.check-box {
+    -fx-background-color: transparent;
+    -fx-text-fill: #121212;
+    -fx-font-size: 14px;
+}
+
+.check-box .box {
+    -fx-background-color: #F2F2F2;
+    -fx-border-color: #c02e39;
+}
