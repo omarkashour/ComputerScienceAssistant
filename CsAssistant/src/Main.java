@@ -1,3 +1,4 @@
+package CsAssistant.src;
 import java.net.HttpURLConnection;
 
 import javafx.animation.Animation;

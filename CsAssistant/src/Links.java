@@ -1,3 +1,4 @@
+package CsAssistant.src;
 import java.awt.Desktop;
 import java.io.IOException;
 import java.net.URI;
