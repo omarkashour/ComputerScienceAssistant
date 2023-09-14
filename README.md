@@ -5,4 +5,4 @@ Important: You need to enter a new OpenAi API Key in the AiAssistant class for i
 
 You can create an API Key from here: https://platform.openai.com/account/api-keys
 
-This work is done in collaboration with github.com/019mj as part of the RamadanFX challenge at Birzeit University.
+This work is done in collaboration with https://www.github.com/019mj as part of the RamadanFX challenge at Birzeit University.
