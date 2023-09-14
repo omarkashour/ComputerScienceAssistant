@@ -4,3 +4,5 @@ An Assistant application for Birzeit University students that contains all the s
 Important: You need to enter a new OpenAi API Key in the AiAssistant class for it to function properly.
 
 You can create an API Key from here: https://platform.openai.com/account/api-keys
+
+This work is done in collaboration with github.com/019mj as part of the RamadanFX challenge at Birzeit University.
